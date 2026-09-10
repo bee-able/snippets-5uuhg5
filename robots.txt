@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bee-able.github.io/snippets-5uuhg5/sitemap.xml
